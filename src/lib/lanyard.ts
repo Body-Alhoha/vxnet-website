@@ -60,8 +60,8 @@ export type Member = {
   projects?: Project[];
 };
 
-const LANYARD_SOCKET_URL = "wss://lanyard.vxnet.sh/socket";
-const LANYARD_API_URL = "https://lanyard.vxnet.sh/v1";
+const LANYARD_SOCKET_URL = "wss://lanyard.firebombed.icu/socket";
+const LANYARD_API_URL = "https://lanyard.firebombed.icu/v1";
 
 export class LanyardWebSocket {
   private ws: WebSocket | null = null;
