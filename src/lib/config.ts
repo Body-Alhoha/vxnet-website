@@ -48,33 +48,24 @@ export const members: Member[] = [
     ],
   },
   {
-    name: "vmohammad",
-    link: "https://vmohammad.dev/",
-    discord_id: "840854894881538079",
-    github: "vMohammad24",
+    name: "compilement",
+    link: "https://rival.rest/",
+    discord_id: "659438962624167957",
+    github: "compilement",
     projects: [
       {
-        name: "nest.rip",
-        description: "nest.rip is your secure place to store files",
-        url: "https://nest.rip/",
-        icon: "https://nest.rip/logo.png",
-        type: "website" as const,
-      },
-      {
-        name: "NaviThingy",
-        description: "A Navidrome client built with Tauri and Svelte.",
-        url: "https://github.com/vMohammad24/NaviThingy/",
-        icon: "https://raw.githubusercontent.com/vMohammad24/NaviThingy/refs/heads/main/static/logo.svg",
+        name: "Rival",
+        description: "A powerful Discord bot for your community",
+        url: "https://rival.rest/",
+        icon: "https://rival.rest/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frival.8c98eb9e.png&w=256&q=75",
         type: "website" as const,
       },
     ],
   },
   {
-    name: "ic3",
-    link: "https://ic3.cash/",
-    discord_id: "1181174180578857036",
-    github: "ic3",
-    
+    name: "drag",
+    link: "#",
+    discord_id: "1189903210564038697",
   },
   {
     name: "body",
@@ -205,7 +196,7 @@ export const members: Member[] = [
   {
     name: "catchii",
     link: "https://catchii.cat/",
-    discord_id: "1201465397988315158",
+    discord_id: "1403905469751365695",
     projects: [
       {
         name: "guns.lol",
