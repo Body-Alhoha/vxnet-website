@@ -5,7 +5,7 @@ export const members: Member[] = [
     name: "cortex",
     link: "https://cortex.rest/",
     github: "refurbishing",
-    discord_id: "400111022901559298",
+    discord_id: "913205935319691335",
     projects: [
       {
         name: "Equibop",
@@ -48,20 +48,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: "compilement",
-    link: "https://rival.rest/",
-    discord_id: "659438962624167957",
-    github: "compilement",
-    projects: [
-      {
-        name: "Rival",
-        description: "A powerful Discord bot for your community",
-        url: "https://rival.rest/",
-        icon: "https://rival.rest/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frival.8c98eb9e.png&w=256&q=75",
-        type: "website" as const,
+    name: "john doe",
+    link: "#",
+    discord_id: "1346505857369772085",
       },
-    ],
-  },
   {
     name: "drag",
     link: "#",
@@ -181,7 +171,7 @@ export const members: Member[] = [
   {
     name: "cyp",
     link: "https://privm.net/",
-    discord_id: "195066212152115211",
+    discord_id: "1356349049049190637",
     github: "cypdev",
     projects: [
       {
@@ -216,10 +206,9 @@ export const members: Member[] = [
     ],
   },
   {
-    name: "synth",
-    link: "https://www.synth.cx",
-    discord_id: "934393331562205195", 
-    github: "w8y",
+    name: "birdie",
+    link: "#",
+    discord_id: "1250561225733967938", 
   },
   {
     name: "shintomu",
