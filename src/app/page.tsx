@@ -468,7 +468,7 @@ export default function Home() {
               className="flex flex-col items-center justify-center"
             >
               <Image
-                src="/icon.png"
+                src="/icon.webp"
                 className="rounded-md"
                 alt="logo"
                 width={225}
